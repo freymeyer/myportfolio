@@ -1,0 +1,204 @@
+baseURL: "https://zeusdelacruz.netlify.app/" # Update with your actual domain
+title: Zeus Dela Cruz
+pagination.pagerSize: 10
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+# Enable emoji support
+enableEmoji: true
+
+# Language settings
+languageCode: en-us
+defaultContentLanguage: en
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+# Taxonomies
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # Required for search
+
+params:
+  env: production
+  title: Zeus Dela Cruz
+  description: "Cybersecurity enthusiast | CTF Player | IT Student specializing in reverse engineering, malware analysis, and Windows forensics"
+  keywords: [Cybersecurity, CTF, Writeups, Reverse Engineering, Malware Analysis, Portfolio, Blog, IT Security]
+  author: Zeus Dela Cruz
+  images: ["profile.jpg"] # Add your profile image to static folder
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light, auto
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: false
+
+  assets:
+    disableHLJS: false # Disable if using Chroma
+    favicon: "/favicon.ico"
+    favicon16x16: "/favicon-16x16.png"
+    favicon32x32: "/favicon-32x32.png"
+    apple_touch_icon: "/apple-touch-icon.png"
+    safari_pinned_tab: "/safari-pinned-tab.svg"
+
+  label:
+    text: "Zeus Dela Cruz"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # Profile mode for homepage
+  profileMode:
+    enabled: true
+    title: "Zeus Dela Cruz"
+    subtitle: |
+      🔐 Cybersecurity Enthusiast | CTF Competitor | 4th Year IT Student
+      
+      Specializing in Reverse Engineering, Malware Analysis & Windows Forensics
+    imageUrl: "https://scontent.fdvo8-1.fna.fbcdn.net/v/t39.30808-6/486309865_2382371715461483_3207377400414064444_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Wa74-nVH5qwQ7kNvwGwR-vE&_nc_oc=Adn9v-MhZrXMGCFWAKwGkC2aPhFcnSvqrqP4EZoRuF5FYncOWCeiPQ9qjjYbgZ1W338&_nc_zt=23&_nc_ht=scontent.fdvo8-1.fna&_nc_gid=eo-VnUZwpQ_IPK33yT_haA&oh=00_AffRqW-jpZ3IjOzLqvr7aB-eu0TPzua7vq48wdS6uGFMpg&oe=68F7A903"
+    imageWidth: 180
+    imageHeight: 180
+    imageTitle: "Zeus Dela Cruz"
+    buttons:
+      - name: Blog
+        url: /blog
+      - name: CTF Writeups
+        url: /writeups
+      - name: Portfolio
+        url: /portfolio
+      - name: About
+        url: /about
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/yourusername" # Update with your GitHub
+    - name: linkedin
+      url: "https://linkedin.com/in/yourusername" # Update with your LinkedIn
+    - name: email
+      url: "mailto:coczeus2@gmail.com"
+    - name: x
+      url: "https://x.com/yourusername" # Update with your Twitter/X
+    - name: rss
+      url: "/index.xml"
+
+  # Cover image settings
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+    responsiveImages: true
+    linkFullImages: true
+
+  # Edit post link
+  editPost:
+    URL: "https://github.com/yourusername/yourrepo/tree/main/content" # Update with your repo
+    Text: "Suggest Changes"
+    appendFilePath: true
+
+  # Search configuration
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10
+    keys: ["title", "permalink", "summary", "content"]
+
+# Menu configuration
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 10
+    - identifier: writeups
+      name: CTF Writeups
+      url: /writeups/
+      weight: 20
+    - identifier: portfolio
+      name: Portfolio
+      url: /portfolio/
+      weight: 30
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 40
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 50
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 60
+
+# Syntax highlighting with Chroma
+pygmentsUseClasses: true
+pygmentsCodefences: true
+pygmentsCodeFencesGuessSyntax: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allow HTML in markdown
+  highlight:
+    noClasses: false
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    lineNumbersInTable: true
+    style: monokai
+  tableOfContents:
+    endLevel: 3
+    ordered: false
+    startLevel: 2
+
+# Privacy settings
+privacy:
+  disqus:
+    disable: true
+  googleAnalytics:
+    disable: false
+    anonymizeIP: true
+    respectDoNotTrack: true
+  instagram:
+    disable: true
+  twitter:
+    disable: false
+    enableDNT: true
+  vimeo:
+    disable: true
+  youtube:
+    privacyEnhanced: true
+
+# Services (optional - add if needed)
+services:
+  googleAnalytics:
+    ID: "G-MEASUREMENT_ID" # Add your GA4 ID if you want analytics

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zeus Dela Cruz</title>
+    <link>https://zeusdelacruz.netlify.app/</link>
+    <description>Recent content on Zeus Dela Cruz</description>
+    <image>
+      <title>Zeus Dela Cruz</title>
+      <url>https://zeusdelacruz.netlify.app/profile.jpg</url>
+      <link>https://zeusdelacruz.netlify.app/profile.jpg</link>
+    </image>
+    <generator>Hugo -- 0.151.0</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="https://zeusdelacruz.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
