@@ -1,11 +1,11 @@
 ---
-title: 'Hello'
-date: '2025-10-28T19:33:50+08:00'
-lastmod: '2025-10-28T19:33:50+08:00'
+title: 'Shark on Wire 1'
+date: '2025-10-28T19:58:03+08:00'
+lastmod: '2025-10-28T19:58:03+08:00'
 draft: false
-description: ''
+description: 'We found this packet capture. Recover the flag.'
 summary: ''
-tags: ["1"]
+tags: ["Medium", "Forensics", "picoCTF 2019"]
 categories: []
 series: []
 author: "Zeus Dela Cruz"
@@ -24,7 +24,7 @@ ShowCodeCopyButtons: true
 
 # Cover image (optional)
 cover:
-  image: '' # /images/filename.jpg
+  image: 'https://w.wallhaven.cc/full/qr/wallhaven-qrzrxd.jpg' # /images/filename.jpg
   alt: ''
   caption: ''
   relative: false
@@ -41,4 +41,5 @@ editPost:
   Text: "Suggest Changes"
   appendFilePath: true
 ---
-Hello everyone, this is my first post ;D
+
+Will be solved tomorrow.
