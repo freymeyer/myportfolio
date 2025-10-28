@@ -1,4 +1,4 @@
-baseURL: "https://zeusdelacruz.netlify.app/" # Update with your actual domain
+baseURL: "https://freymeyer.netlify.app/" # Update with your actual domain
 title: Zeus Dela Cruz
 pagination.pagerSize: 10
 theme: PaperMod
@@ -95,9 +95,9 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/yourusername" # Update with your GitHub
+      url: "https://github.com/freymeyer" # Update with your GitHub
     - name: linkedin
-      url: "https://linkedin.com/in/yourusername" # Update with your LinkedIn
+      url: "https://www.linkedin.com/in/zeus-lhorence-dela-cruz-4969902a7/" # Update with your LinkedIn
     - name: email
       url: "mailto:coczeus2@gmail.com"
     - name: x
@@ -115,7 +115,7 @@ params:
 
   # Edit post link
   editPost:
-    URL: "https://github.com/yourusername/yourrepo/tree/main/content" # Update with your repo
+    URL: "https://github.com/freymeyer/myportfolio/tree/main/content" # Update with your repo
     Text: "Suggest Changes"
     appendFilePath: true
 
