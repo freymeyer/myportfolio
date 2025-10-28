@@ -1,11 +1,11 @@
 ---
-title: '{{ replace .Name "-" " " | title }}'
-date: '{{ .Date }}'
-lastmod: '{{ .Date }}'
+title: 'Hello'
+date: '2025-10-28T19:33:50+08:00'
+lastmod: '2025-10-28T19:33:50+08:00'
 draft: true
 description: ''
 summary: ''
-tags: []
+tags: ["1"]
 categories: []
 series: []
 author: "Zeus Dela Cruz"
@@ -41,3 +41,4 @@ editPost:
   Text: "Suggest Changes"
   appendFilePath: true
 ---
+Hello everyone, this is my first post ;D
