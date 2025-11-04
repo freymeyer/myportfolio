@@ -24,6 +24,8 @@ taxonomies:
   category: categories
   tag: tags
   series: series
+  tool: tools
+  technique: techniques
 
 outputs:
   home:

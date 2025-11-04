@@ -2,16 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/writeups/</loc>
+    <loc>https://freymeyer.netlify.app/tags/forensics/</loc>
+    <lastmod>2025-11-04T11:34:38+08:00</lastmod>
+  </url><url>
+    <loc>https://freymeyer.netlify.app/techniques/hash-lookup/</loc>
+    <lastmod>2025-11-04T11:34:38+08:00</lastmod>
+  </url><url>
+    <loc>https://freymeyer.netlify.app/tags/medium/</loc>
+    <lastmod>2025-11-04T11:34:38+08:00</lastmod>
+  </url><url>
+    <loc>https://freymeyer.netlify.app/techniques/osint/</loc>
+    <lastmod>2025-11-04T11:34:38+08:00</lastmod>
+  </url><url>
+    <loc>https://freymeyer.netlify.app/tags/picoctf-2022/</loc>
+    <lastmod>2025-11-04T11:34:38+08:00</lastmod>
+  </url><url>
+    <loc>https://freymeyer.netlify.app/techniques/protocol-analysis/</loc>
+    <lastmod>2025-11-04T11:34:38+08:00</lastmod>
+  </url><url>
+    <loc>https://freymeyer.netlify.app/tags/</loc>
+    <lastmod>2025-11-04T11:34:38+08:00</lastmod>
+  </url><url>
+    <loc>https://freymeyer.netlify.app/techniques/</loc>
+    <lastmod>2025-11-04T11:34:38+08:00</lastmod>
+  </url><url>
+    <loc>https://freymeyer.netlify.app/tools/</loc>
+    <lastmod>2025-11-04T11:34:38+08:00</lastmod>
+  </url><url>
+    <loc>https://freymeyer.netlify.app/writeups/torrent-analyze/</loc>
+    <lastmod>2025-11-04T11:34:38+08:00</lastmod>
+  </url><url>
+    <loc>https://freymeyer.netlify.app/tools/wireshark/</loc>
+    <lastmod>2025-11-04T11:34:38+08:00</lastmod>
+  </url><url>
+    <loc>https://freymeyer.netlify.app/writeups/</loc>
+    <lastmod>2025-11-04T11:34:38+08:00</lastmod>
+  </url><url>
+    <loc>https://freymeyer.netlify.app/</loc>
+    <lastmod>2025-11-04T11:34:38+08:00</lastmod>
+  </url><url>
+    <loc>https://freymeyer.netlify.app/writeups/matryoshka-doll/</loc>
+    <lastmod>2025-10-31T11:05:29+08:00</lastmod>
+  </url><url>
+    <loc>https://freymeyer.netlify.app/tags/picoctf-2021/</loc>
+    <lastmod>2025-10-31T11:05:29+08:00</lastmod>
+  </url><url>
+    <loc>https://freymeyer.netlify.app/tags/picoctf-2019/</loc>
+    <lastmod>2025-10-28T19:58:03+08:00</lastmod>
+  </url><url>
+    <loc>https://freymeyer.netlify.app/writeups/shark-on-wire-1/</loc>
+    <lastmod>2025-10-28T19:58:03+08:00</lastmod>
+  </url><url>
+    <loc>https://freymeyer.netlify.app/tags/1/</loc>
     <lastmod>2025-10-28T19:33:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://freymeyer.netlify.app/writeups/hello/</loc>
     <lastmod>2025-10-28T19:33:50+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://freymeyer.netlify.app/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://freymeyer.netlify.app/series/</loc>
   </url>
 </urlset>

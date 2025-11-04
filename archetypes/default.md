@@ -9,6 +9,8 @@ tags: []
 categories: []
 series: []
 author: "Zeus Dela Cruz"
+tools: []
+techniques: []
 
 # Enable features for post
 showToc: true

@@ -2,43 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Zeus Dela Cruz</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://freymeyer.netlify.app/tags/</link>
     <description>Recent content in Tags on Zeus Dela Cruz</description>
     <image>
       <title>Zeus Dela Cruz</title>
-      <url>http://localhost:1313/profile.jpg</url>
-      <link>http://localhost:1313/profile.jpg</link>
+      <url>https://freymeyer.netlify.app/profile.jpg</url>
+      <link>https://freymeyer.netlify.app/profile.jpg</link>
     </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 Oct 2025 19:58:03 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Nov 2025 11:34:38 +0800</lastBuildDate>
+    <atom:link href="https://freymeyer.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Forensics</title>
-      <link>http://localhost:1313/tags/forensics/</link>
-      <pubDate>Tue, 28 Oct 2025 19:58:03 +0800</pubDate>
-      <guid>http://localhost:1313/tags/forensics/</guid>
+      <link>https://freymeyer.netlify.app/tags/forensics/</link>
+      <pubDate>Tue, 04 Nov 2025 11:34:38 +0800</pubDate>
+      <guid>https://freymeyer.netlify.app/tags/forensics/</guid>
       <description></description>
     </item>
     <item>
       <title>Medium</title>
-      <link>http://localhost:1313/tags/medium/</link>
-      <pubDate>Tue, 28 Oct 2025 19:58:03 +0800</pubDate>
-      <guid>http://localhost:1313/tags/medium/</guid>
+      <link>https://freymeyer.netlify.app/tags/medium/</link>
+      <pubDate>Tue, 04 Nov 2025 11:34:38 +0800</pubDate>
+      <guid>https://freymeyer.netlify.app/tags/medium/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PicoCTF 2022</title>
+      <link>https://freymeyer.netlify.app/tags/picoctf-2022/</link>
+      <pubDate>Tue, 04 Nov 2025 11:34:38 +0800</pubDate>
+      <guid>https://freymeyer.netlify.app/tags/picoctf-2022/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PicoCTF 2021</title>
+      <link>https://freymeyer.netlify.app/tags/picoctf-2021/</link>
+      <pubDate>Fri, 31 Oct 2025 11:05:29 +0800</pubDate>
+      <guid>https://freymeyer.netlify.app/tags/picoctf-2021/</guid>
       <description></description>
     </item>
     <item>
       <title>PicoCTF 2019</title>
-      <link>http://localhost:1313/tags/picoctf-2019/</link>
+      <link>https://freymeyer.netlify.app/tags/picoctf-2019/</link>
       <pubDate>Tue, 28 Oct 2025 19:58:03 +0800</pubDate>
-      <guid>http://localhost:1313/tags/picoctf-2019/</guid>
+      <guid>https://freymeyer.netlify.app/tags/picoctf-2019/</guid>
       <description></description>
     </item>
     <item>
       <title>1</title>
-      <link>http://localhost:1313/tags/1/</link>
+      <link>https://freymeyer.netlify.app/tags/1/</link>
       <pubDate>Tue, 28 Oct 2025 19:33:50 +0800</pubDate>
-      <guid>http://localhost:1313/tags/1/</guid>
+      <guid>https://freymeyer.netlify.app/tags/1/</guid>
       <description></description>
     </item>
   </channel>

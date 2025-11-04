@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>PicoCTF 2019 on Zeus Dela Cruz</title>
-    <link>http://localhost:1313/tags/picoctf-2019/</link>
+    <link>https://freymeyer.netlify.app/tags/picoctf-2019/</link>
     <description>Recent content in PicoCTF 2019 on Zeus Dela Cruz</description>
     <image>
       <title>Zeus Dela Cruz</title>
-      <url>http://localhost:1313/profile.jpg</url>
-      <link>http://localhost:1313/profile.jpg</link>
+      <url>https://freymeyer.netlify.app/profile.jpg</url>
+      <link>https://freymeyer.netlify.app/profile.jpg</link>
     </image>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 Oct 2025 19:58:03 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/picoctf-2019/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://freymeyer.netlify.app/tags/picoctf-2019/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Shark on Wire 1</title>
-      <link>http://localhost:1313/writeups/shark-on-wire-1/</link>
+      <link>https://freymeyer.netlify.app/writeups/shark-on-wire-1/</link>
       <pubDate>Tue, 28 Oct 2025 19:58:03 +0800</pubDate>
-      <guid>http://localhost:1313/writeups/shark-on-wire-1/</guid>
+      <guid>https://freymeyer.netlify.app/writeups/shark-on-wire-1/</guid>
       <description>We found this packet capture. Recover the flag.</description>
     </item>
   </channel>

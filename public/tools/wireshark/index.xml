@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Wireshark on Zeus Dela Cruz</title>
+    <link>https://freymeyer.netlify.app/tools/wireshark/</link>
+    <description>Recent content in Wireshark on Zeus Dela Cruz</description>
+    <image>
+      <title>Zeus Dela Cruz</title>
+      <url>https://freymeyer.netlify.app/profile.jpg</url>
+      <link>https://freymeyer.netlify.app/profile.jpg</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Nov 2025 11:34:38 +0800</lastBuildDate>
+    <atom:link href="https://freymeyer.netlify.app/tools/wireshark/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Torrent Analyze</title>
+      <link>https://freymeyer.netlify.app/writeups/torrent-analyze/</link>
+      <pubDate>Tue, 04 Nov 2025 11:34:38 +0800</pubDate>
+      <guid>https://freymeyer.netlify.app/writeups/torrent-analyze/</guid>
+      <description>SOS, someone is torrenting on our network. One of your colleagues has been using torrent to download some files on the company’s network. Can you identify the file(s) that were downloaded? The file name will be the flag, like picoCTF{filename}. Captured traffic.</description>
+    </item>
+  </channel>
+</rss>
